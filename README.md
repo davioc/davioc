@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @davioc
-- 🌱 I’m currently learning C++ and Java.
+- 🌱 I’m currently learning C++, Java and SQL.
 - 📎 Attached in this hub are some school projects with source code to demo coding principles I've learned such as encapsulation, inheritance, and polymorphism.
 
 <!---
