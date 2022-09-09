@@ -1,3 +1,4 @@
 - 👋 Hello, I’m David O
-- 🌱 I’m currently learning Java, SQL and C++.
+- 🏫 WGU Alumini - B.S Software Development (2022)
+- ⌨️ I have experience working with Java, SQL, C++
 - 📎 Attached in this hub are some Java school projects along with source code to demo coding principles I've learned such as encapsulation, inheritance, and polymorphism.
