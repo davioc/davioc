@@ -1,4 +1,4 @@
 - 👋 Hello, I’m David O
 - 🏫 WGU Alumini - B.S Software Development (2022)
 - ⌨️ I have experience working with Java, SQL, C++
-- 📎 Attached in this hub are some Java school projects along with source code to demo coding principles I've learned such as encapsulation, inheritance, and polymorphism.
+- 📎 Attached in here are Java projects from school and personal ones (work in progress)
