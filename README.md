@@ -1,4 +1,2 @@
 - 👋 Hello, I’m David O
-- 🏫 WGU Alumini - B.S Software Development (2022)
-- ⌨️ I have experience working with Java, SQL, C++, and general web development
-- 📖 Currently learning C#, Python, React.js, and Unreal Engine
+- 🏫 WGU Alumni - B.S Software Development (2022)
