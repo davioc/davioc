@@ -1,2 +1,3 @@
 - 👋 Hello, I’m David O
-- 🏫 WGU Alumni - B.S Software Development (2022)
+- 🏫 Western Governors University - Bachelor of Science in Software Development (2022)
+- 💪 Practing Python, C++ and Algorithms 
