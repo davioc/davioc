@@ -1,3 +1,3 @@
 - 👋 Hello, I’m David O
 - 🏫 Western Governors University - Bachelor of Science in Software Development (2022)
-- 💪 Practing Python, C++ and Algorithms 
+- 💪 Practicing Python, C++ and Algorithms 
